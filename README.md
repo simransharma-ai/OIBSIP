@@ -342,6 +342,3 @@ Python Programming Internship
 **OASIS INFOBYTE**
 
 ```
-
-Isko root wale **`README.md`** me paste kar do. Individual task READMEs apne-apne task folders me waise hi rehne do.
-```

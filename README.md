@@ -340,5 +340,3 @@ Run the project using the command mentioned in the respective task section above
 
 Python Programming Internship
 **OASIS INFOBYTE**
-
-```
